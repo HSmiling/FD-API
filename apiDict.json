@@ -1,0 +1,20 @@
+{
+    "bill/account/group/delete":1,
+    "bill/account/group/list":2,
+    "bill/account/group/update":3,
+    "bill/delete":4,
+    "bill/listByTypes":5,
+    "bill/listWithLimitByGroup":6,
+    "bill/modify":7,
+    "bill/payResult":8,
+    "jiaofei/billInstInfo":9,
+    "jiaofei/biz2":10,
+    "jiaofei/cityList2":11,
+    "jiaofei/multiQuery":12,
+    "jiaofei/orders":13,
+    "jiaofei/prePayAndHandle":14,
+    "jiaofei/prequery2":15,
+    "jiaofei/settings/query":16,
+    "jiaofei/settings/update":17,
+    "jiaofei/singleOrder":18
+}
